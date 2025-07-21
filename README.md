@@ -64,12 +64,11 @@ recommend_similar_songs("Shape of You", k=5)
    cd spotify-recommender
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Download the data set below
+   
+   [Dataset](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks)
 
-3. Launch the notebook:
+4. Launch the notebook:
    ```bash
    jupyter notebook spotify.ipynb
    ```
