@@ -60,8 +60,8 @@ recommend_similar_songs("Shape of You", k=5)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-recommender.git
-   cd spotify-recommender
+   git clone https://github.com/Whateverdoes/Spotify-Songs-recommender
+   cd Spotify-Songs-recommender
    ```
 
 2. Download the data set below
